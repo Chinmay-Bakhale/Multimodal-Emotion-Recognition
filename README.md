@@ -5,7 +5,7 @@ This project aims to classify human emotions using a multimodal approach, combin
 ## Project Structure
 
 - **data**: Contains the RAVDESS dataset.
-- **notebooks**: Includes the main notebook (`multimodal_emotion_recognition.ipynb`) for data exploration, model training, and evaluation.
+- **notebooks**: Includes the main notebook (`main.ipynb`) for data exploration, model training, and evaluation.
 - **src**: Not applicable for this project; all code is in the notebook.
 
 ## Key Features
