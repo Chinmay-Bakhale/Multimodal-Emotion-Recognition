@@ -12,7 +12,7 @@ This project aims to classify human emotions using a multimodal approach, combin
 
 - **Multimodal Fusion**: Combines audio and video features using an attention-based mechanism.
 - **Model Architecture**: PyTorch-based neural network with separate encoders for audio and video.
-- **Dataset**: RAVDESS dataset for speech emotion recognition.
+- **Dataset**: RAVDESS dataset for emotion recognition.
 
 ## Usage
 
